@@ -1,10 +1,10 @@
 # WebTeknolojileriProjem
  Bu proje ödevi Web Teknolojileri dersi kapsamında bireysel olarak geliştirilmesi gereken bir kişisel web sitesi projesidir. 
 
-Projenin Amacı
+Projenin Amacı:
 HTML, CSS, JavaScript gibi derste öğrendiğin teknolojilerle responsive (mobil uyumlu) bir web sitesi geliştirmek.
 
-Site İçeriği Gereklilikleri
+Site İçeriği Gereklilikleri:
 1-Giriş (Hakkında) Sayfası
 Kendini tanıtacaksın (hobilerin, etkinliklerin, sevdiğin sporlar vs.)
 Resim ve bağlantılar da olmalı.
@@ -34,7 +34,7 @@ Form JavaScript + bir JS framework (Vue.js, Angular.js, Express.js vb.) ile kont
 Gönderildiğinde başka bir sayfada form bilgileri görüntülenecek.
 "Temizle" ve "Gönder" butonları olacak.
 
-Teknik Gereksinimler
+Teknik Gereksinimler:
 Stil dosyaları (CSS) ayrı bir dosyada tutulmalı.
 GitHub hesabında proje açılmalı, proje ilerledikçe minimum 10 commit yapılmalı.
 Proje ücretsiz hosting (örn. 000webhost, InfinityFree) üzerinden internet ortamında yayınlanmalı.
